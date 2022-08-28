@@ -5,6 +5,7 @@ const buttonDecrypt = document.querySelector('.descrypt');
 const buttonCopy = document.querySelector('.copy');
 const bgResult = document.querySelector('.img-result-text');
 const textResult = document.querySelector('.output-text');
+const textNotFound = document.querySelector('.result-container')
 
 const insertVowels = ['e', 'i', 'a', 'o', 'u'];
 const outputVowels = ['enter', 'imes', 'ai', 'ober', 'ufat'];
@@ -39,6 +40,7 @@ function copy() {
 function filledResult() {
   bgResult.style.display = 'none';
   textResult.style.display = 'flex';
+  textNotFound.style.display = 'none';
   buttonCopy.style.display = 'inline';
   msgInsert.value = '';
 }
@@ -64,6 +66,7 @@ buttonCopy.addEventListener('click', function () {
     copy();
     bgResult.style.display = 'flex';
     textResult.style.display = 'none';
+    textNotFound.style.display = 'flex';
     buttonCopy.style.display = 'none';
   }
 });
