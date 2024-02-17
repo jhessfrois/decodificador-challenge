@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src="https://www.alura.com.br/assets/img/challenges/general/oracle-one/logos/oracle-alura.1689860202.svg" width="200px" />
+  <img alt="Logo Oracle + Alura" src="https://www.alura.com.br/assets/img/challenges/general/oracle-one/logos/oracle-alura.1689860202.svg" width="200px" />
 </p>
 
 <p align="center">
