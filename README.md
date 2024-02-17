@@ -30,8 +30,8 @@ Aplicação desenvolvida no 1º Desafio oferecido pelo projeto Oracle Next Educa
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- ![HTML](https://img.shields.io/badge/html-323338?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-- ![CSS](https://img.shields.io/badge/css-323338?style=for-the-badge&logo=CSS3&logoColor=1572B6) 
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 
