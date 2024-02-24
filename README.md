@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no 1º Desafio oferecido no Oracle Next Education pela Oracle e Alura.
+Aplicação desenvolvida no 1º Desafio oferecido no Oracle Next Education pela Oracle e a Alura.
 </p>
 
 <p align="center">
@@ -26,6 +26,8 @@ Aplicação desenvolvida no 1º Desafio oferecido no Oracle Next Education pela 
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/tXwHJsv.jpeg" width="20%">
 </p>
 
+> Projeto desenvolvido entre os dias 27/08 e 01/09 de 2022
+
 ## **🚀 Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -37,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## **💻 Projeto**
 
-Nesse projeto foi desenvolvido um decodificador de texto com Javascript.
+Nesse projeto foi desenvolvido um decodificador de texto com Javascript. Onde uma mensagem que o usuário digita é completamente encriptografada e descriptografada ao clicar nos botões da página.
 
 ## **💻 Github Pages**
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/decodificador-challenge/)
