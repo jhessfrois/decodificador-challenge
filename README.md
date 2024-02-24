@@ -26,7 +26,7 @@ Aplicação desenvolvida no 1º Desafio oferecido no Oracle Next Education pela 
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/tXwHJsv.jpeg" width="20%">
 </p>
 
-> Projeto desenvolvido entre os dias 27/08 e 01/09 de 2022
+> Projeto desenvolvido entre os dias 24/08 e 27/08 de 2022
 
 ## **🚀 Tecnologias**
 
