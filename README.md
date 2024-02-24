@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no 1º Desafio oferecido pelo projeto Oracle Next Education pela Alura e a Oracle.
+Aplicação desenvolvida no 1º Desafio oferecido no Oracle Next Education pela Oracle e Alura.
 </p>
 
 <p align="center">
